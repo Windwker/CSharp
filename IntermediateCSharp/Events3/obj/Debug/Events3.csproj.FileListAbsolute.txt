@@ -1,0 +1,6 @@
+C:\Users\Javi\source\repos\IntermediateCSharp\Events3\bin\Debug\Events3.exe.config
+C:\Users\Javi\source\repos\IntermediateCSharp\Events3\bin\Debug\Events3.exe
+C:\Users\Javi\source\repos\IntermediateCSharp\Events3\bin\Debug\Events3.pdb
+C:\Users\Javi\source\repos\IntermediateCSharp\Events3\obj\Debug\Events3.csproj.CoreCompileInputs.cache
+C:\Users\Javi\source\repos\IntermediateCSharp\Events3\obj\Debug\Events3.exe
+C:\Users\Javi\source\repos\IntermediateCSharp\Events3\obj\Debug\Events3.pdb

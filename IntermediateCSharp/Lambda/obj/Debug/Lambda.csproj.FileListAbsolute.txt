@@ -1,0 +1,6 @@
+C:\Users\Javi\source\repos\IntermediateCSharp\Lambda\bin\Debug\Lambda.exe.config
+C:\Users\Javi\source\repos\IntermediateCSharp\Lambda\bin\Debug\Lambda.exe
+C:\Users\Javi\source\repos\IntermediateCSharp\Lambda\bin\Debug\Lambda.pdb
+C:\Users\Javi\source\repos\IntermediateCSharp\Lambda\obj\Debug\Lambda.csproj.CoreCompileInputs.cache
+C:\Users\Javi\source\repos\IntermediateCSharp\Lambda\obj\Debug\Lambda.exe
+C:\Users\Javi\source\repos\IntermediateCSharp\Lambda\obj\Debug\Lambda.pdb

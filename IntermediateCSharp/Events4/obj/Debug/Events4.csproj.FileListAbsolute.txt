@@ -1,0 +1,7 @@
+C:\Users\Javi\source\repos\IntermediateCSharp\Events4\bin\Debug\Events4.exe.config
+C:\Users\Javi\source\repos\IntermediateCSharp\Events4\bin\Debug\Events4.exe
+C:\Users\Javi\source\repos\IntermediateCSharp\Events4\bin\Debug\Events4.pdb
+C:\Users\Javi\source\repos\IntermediateCSharp\Events4\obj\Debug\Events4.csprojAssemblyReference.cache
+C:\Users\Javi\source\repos\IntermediateCSharp\Events4\obj\Debug\Events4.csproj.CoreCompileInputs.cache
+C:\Users\Javi\source\repos\IntermediateCSharp\Events4\obj\Debug\Events4.exe
+C:\Users\Javi\source\repos\IntermediateCSharp\Events4\obj\Debug\Events4.pdb

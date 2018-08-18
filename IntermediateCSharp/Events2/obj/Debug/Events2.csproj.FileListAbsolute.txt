@@ -1,0 +1,7 @@
+C:\Users\Javi\source\repos\IntermediateCSharp\Events2\bin\Debug\Events2.exe.config
+C:\Users\Javi\source\repos\IntermediateCSharp\Events2\bin\Debug\Events2.exe
+C:\Users\Javi\source\repos\IntermediateCSharp\Events2\bin\Debug\Events2.pdb
+C:\Users\Javi\source\repos\IntermediateCSharp\Events2\obj\Debug\Events2.csprojAssemblyReference.cache
+C:\Users\Javi\source\repos\IntermediateCSharp\Events2\obj\Debug\Events2.csproj.CoreCompileInputs.cache
+C:\Users\Javi\source\repos\IntermediateCSharp\Events2\obj\Debug\Events2.exe
+C:\Users\Javi\source\repos\IntermediateCSharp\Events2\obj\Debug\Events2.pdb

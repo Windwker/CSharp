@@ -1,0 +1,14 @@
+C:\Users\Javi\source\repos\IntermediateCSharp\IntermediateCSharpUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Javi\source\repos\IntermediateCSharp\IntermediateCSharpUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Javi\source\repos\IntermediateCSharp\IntermediateCSharpUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Javi\source\repos\IntermediateCSharp\IntermediateCSharpUnitTest\bin\Debug\IntermediateCSharpUnitTest.dll
+C:\Users\Javi\source\repos\IntermediateCSharp\IntermediateCSharpUnitTest\bin\Debug\IntermediateCSharpUnitTest.pdb
+C:\Users\Javi\source\repos\IntermediateCSharp\IntermediateCSharpUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Javi\source\repos\IntermediateCSharp\IntermediateCSharpUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Javi\source\repos\IntermediateCSharp\IntermediateCSharpUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Javi\source\repos\IntermediateCSharp\IntermediateCSharpUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Javi\source\repos\IntermediateCSharp\IntermediateCSharpUnitTest\obj\Debug\IntermediateCSharpUnitTest.csprojAssemblyReference.cache
+C:\Users\Javi\source\repos\IntermediateCSharp\IntermediateCSharpUnitTest\obj\Debug\IntermediateCSharpUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Javi\source\repos\IntermediateCSharp\IntermediateCSharpUnitTest\obj\Debug\IntermediateCSharpUnitTest.csproj.CopyComplete
+C:\Users\Javi\source\repos\IntermediateCSharp\IntermediateCSharpUnitTest\obj\Debug\IntermediateCSharpUnitTest.dll
+C:\Users\Javi\source\repos\IntermediateCSharp\IntermediateCSharpUnitTest\obj\Debug\IntermediateCSharpUnitTest.pdb

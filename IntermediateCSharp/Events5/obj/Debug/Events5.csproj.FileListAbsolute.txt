@@ -1,0 +1,7 @@
+C:\Users\Javi\source\repos\IntermediateCSharp\Events5\bin\Debug\Events5.exe.config
+C:\Users\Javi\source\repos\IntermediateCSharp\Events5\bin\Debug\Events5.exe
+C:\Users\Javi\source\repos\IntermediateCSharp\Events5\bin\Debug\Events5.pdb
+C:\Users\Javi\source\repos\IntermediateCSharp\Events5\obj\Debug\Events5.csprojAssemblyReference.cache
+C:\Users\Javi\source\repos\IntermediateCSharp\Events5\obj\Debug\Events5.csproj.CoreCompileInputs.cache
+C:\Users\Javi\source\repos\IntermediateCSharp\Events5\obj\Debug\Events5.exe
+C:\Users\Javi\source\repos\IntermediateCSharp\Events5\obj\Debug\Events5.pdb

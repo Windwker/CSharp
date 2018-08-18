@@ -1,0 +1,7 @@
+C:\Users\Javi\source\repos\IntermediateCSharp\NullableTypes\bin\Debug\NullableTypes.exe.config
+C:\Users\Javi\source\repos\IntermediateCSharp\NullableTypes\bin\Debug\NullableTypes.exe
+C:\Users\Javi\source\repos\IntermediateCSharp\NullableTypes\bin\Debug\NullableTypes.pdb
+C:\Users\Javi\source\repos\IntermediateCSharp\NullableTypes\obj\Debug\NullableTypes.csprojAssemblyReference.cache
+C:\Users\Javi\source\repos\IntermediateCSharp\NullableTypes\obj\Debug\NullableTypes.csproj.CoreCompileInputs.cache
+C:\Users\Javi\source\repos\IntermediateCSharp\NullableTypes\obj\Debug\NullableTypes.exe
+C:\Users\Javi\source\repos\IntermediateCSharp\NullableTypes\obj\Debug\NullableTypes.pdb

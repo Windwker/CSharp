@@ -1,0 +1,7 @@
+C:\Users\Javi\source\repos\IntermediateCSharp\AsyncAwait\bin\Debug\AsyncAwait.exe.config
+C:\Users\Javi\source\repos\IntermediateCSharp\AsyncAwait\bin\Debug\AsyncAwait.exe
+C:\Users\Javi\source\repos\IntermediateCSharp\AsyncAwait\bin\Debug\AsyncAwait.pdb
+C:\Users\Javi\source\repos\IntermediateCSharp\AsyncAwait\obj\Debug\AsyncAwait.csprojAssemblyReference.cache
+C:\Users\Javi\source\repos\IntermediateCSharp\AsyncAwait\obj\Debug\AsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\Javi\source\repos\IntermediateCSharp\AsyncAwait\obj\Debug\AsyncAwait.exe
+C:\Users\Javi\source\repos\IntermediateCSharp\AsyncAwait\obj\Debug\AsyncAwait.pdb

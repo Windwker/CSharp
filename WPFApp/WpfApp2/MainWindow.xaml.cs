@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace WPFApp
+namespace WpfApp2
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
@@ -23,11 +23,6 @@ namespace WPFApp
         public MainWindow()
         {
             InitializeComponent();
-        }
-
-        private void Button_Click()
-        {
-
         }
     }
 }

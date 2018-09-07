@@ -1,0 +1,13 @@
+﻿<Window x:Class="Dashboard.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CurrencyReader;assembly=CurrencyReader"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label BorderThickness="4" BorderBrush="Black" Margin="34,26,521,356" Content="{Binding Currency }"/>
+        <Label BorderThickness="4" BorderBrush="Black" Margin="34,68,521,313"/>
+    </Grid>
+</Window>

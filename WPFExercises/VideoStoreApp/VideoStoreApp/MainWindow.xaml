@@ -1,0 +1,36 @@
+﻿<Window x:Class="VideoStoreApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VideoStoreApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <DataTemplate DataType="{x:Type local:Members}">
+            <Button Name="Test" Height="40" Width="40"></Button>
+        </DataTemplate>
+    </Window.Resources>
+    <Grid>
+        <ContentControl Content="{Binding}"></ContentControl>
+        <TextBlock HorizontalAlignment="Left" Height="27" Margin="10,29,0,0" TextWrapping="Wrap" Text="Name:
+                   " VerticalAlignment="Top" Width="122"/>
+        <TextBox Name="NameTextBox" HorizontalAlignment="Left" Height="27" Margin="65,29,0,0" TextWrapping="Wrap" Text="{Binding Name}" VerticalAlignment="Top" Width="189"/>
+        <TextBlock HorizontalAlignment="Left" Height="27" Margin="10,61,0,0" TextWrapping="Wrap" Text="E-Mail:
+                   " VerticalAlignment="Top" Width="122"/>
+        <TextBox Name="MailTextBox" HorizontalAlignment="Left" Height="27" Margin="65,61,0,0" TextWrapping="Wrap" Text="{Binding AuxName}" VerticalAlignment="Top" Width="189"/>
+        <Button Content="Add" HorizontalAlignment="Left" Height="26" Margin="10,93,0,0" VerticalAlignment="Top" Width="244" Click="Button_Click"/>
+        <ListView Margin="10,154,538,10" Name="lvUsers" >
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Name" Width="120" DisplayMemberBinding="{Binding Name}"/>
+                    <GridViewColumn Header="Email Address" Width="120" DisplayMemberBinding="{Binding EMailAddress}"/>
+                </GridView>
+
+            </ListView.View>
+
+        </ListView>
+
+
+    </Grid>
+</Window>
